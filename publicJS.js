@@ -36,7 +36,3 @@ function judgeMoney(num){
 		}
 		return money;
 	}
-
-
-
-
