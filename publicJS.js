@@ -54,4 +54,5 @@ function judgeMoney(num){
 *****/
 /*紧急bug已修复
 commit 02
+commit 06
 */
