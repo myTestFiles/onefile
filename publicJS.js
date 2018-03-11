@@ -52,3 +52,4 @@ function judgeMoney(num){
 		return money;
 	}
 *****/
+/*紧急bug已修复*/
