@@ -52,4 +52,6 @@ function judgeMoney(num){
 		return money;
 	}
 *****/
-/*紧急bug已修复*/
+/*紧急bug已修复
+commit 02
+*/
